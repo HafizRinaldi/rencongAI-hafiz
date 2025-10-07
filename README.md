@@ -2,7 +2,7 @@
 
 **RencongAI** adalah aplikasi kecerdasan buatan yang saya kembangkan dengan tujuan untuk **memperkenalkan, mendokumentasikan, dan melestarikan budaya Aceh**, daerah tempat saya dibesarkan dan yang menjadi sumber inspirasi utama saya.
 
-Sebagai putra daerah Aceh, saya ingin menunjukkan bahwa teknologi modern — khususnya **Artificial Intelligence (AI)** — dapat digunakan untuk **memajukan nilai-nilai budaya lokal**, bukan hanya mengikuti arus globalisasi.  
+Sebagai putra daerah Aceh, saya ingin menunjukkan bahwa teknologi modern khususnya **Artificial Intelligence (AI)** dapat digunakan untuk **memajukan nilai-nilai budaya lokal**, bukan hanya mengikuti arus globalisasi.  
 RencongAI hadir sebagai wujud dari semangat tersebut.
 
 ---
