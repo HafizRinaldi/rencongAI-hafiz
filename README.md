@@ -1,14 +1,24 @@
 # 🕌 RencongAI — Chatbot Budaya Aceh
 
-**RencongAI** adalah aplikasi kecerdasan buatan yang dirancang untuk memperkenalkan dan melestarikan **budaya Aceh** melalui dua fitur utama:
+**RencongAI** adalah aplikasi kecerdasan buatan yang saya kembangkan dengan tujuan untuk **memperkenalkan, mendokumentasikan, dan melestarikan budaya Aceh**, daerah tempat saya dibesarkan dan yang menjadi sumber inspirasi utama saya.
 
-- 💬 **Chatbot Interaktif Budaya Aceh** — menjawab pertanyaan seputar sejarah, adat istiadat, seni, sastra, kuliner, dan nilai-nilai masyarakat Aceh.
-- ❤️ **Analisis Sentimen Sastra (Prototipe)** — model AI berbasis IndoBERT yang menganalisis emosi dan nuansa makna teks sastra Aceh seperti hikayat dan syair.
+Sebagai putra daerah Aceh, saya ingin menunjukkan bahwa teknologi modern — khususnya **Artificial Intelligence (AI)** — dapat digunakan untuk **memajukan nilai-nilai budaya lokal**, bukan hanya mengikuti arus globalisasi.  
+RencongAI hadir sebagai wujud dari semangat tersebut.
 
-Aplikasi ini terdiri dari dua komponen utama:
-- **Backend:** FastAPI + LangChain + Google Gemini + FAISS  
-- **Frontend:** Flutter (Android/Web)  
-- **Deployment:** Docker container dengan NGINX di Hugging Face Spaces  
+---
+
+### 💬 Fitur Utama
+- **Chatbot Interaktif Budaya Aceh**  
+  Menjawab berbagai pertanyaan tentang sejarah, adat istiadat, sastra, kuliner, dan tradisi Aceh dengan pendekatan RAG (Retrieval-Augmented Generation) menggunakan **LangChain + Google Gemini**.
+
+- **Analisis Sentimen Sastra (Prototipe)**  
+  Fitur eksperimental berbasis **IndoBERT fine-tuned**, yang dapat menganalisis emosi dan makna dari teks sastra seperti **hikayat, syair, dan pantun Aceh**.
+
+---
+
+### 💡 Inspirasi Pengembangan
+RencongAI lahir dari keinginan saya untuk **memajukan daerah sendiri** dan membuktikan bahwa inovasi teknologi tidak hanya milik pusat-pusat industri besar, tetapi juga bisa tumbuh dari akar budaya lokal.  
+Melalui proyek ini, saya berharap generasi muda Aceh dapat melihat bahwa **AI bukan ancaman bagi budaya**, melainkan alat untuk menjaga dan menyebarkan warisan leluhur kita ke dunia.
 
 ---
 
