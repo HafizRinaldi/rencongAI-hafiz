@@ -25,13 +25,13 @@ Melalui proyek ini, saya berharap generasi muda Aceh dapat melihat bahwa **AI bu
 ## 🌐 Tampilan Aplikasi
 
 ### 💻 Web Interface
-![RencongAI Web](assets/screenshots/web_chat.png)
+![RencongAI Web](screenshots/web_chat.png)
 
 ### 📱 Android Interface
 <p align="center">
-  <img src="assets/screenshots/android_home.png" width="260">
-  <img src="assets/screenshots/android_chat.png" width="260">
-  <img src="assets/screenshots/android_sentiment.png" width="260">
+  <img src="screenshots/android_home.png" width="260">
+  <img src="screenshots/android_chat.png" width="260">
+  <img src="screenshots/android_sentiment.png" width="260">
 </p>
 
 ---
